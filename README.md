@@ -1,3 +1,3 @@
-# angular-ivy-mnt4vg
+# Candle
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-mnt4vg)
+Simulate the story of a japanese candle through CSS animation.
